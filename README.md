@@ -39,13 +39,10 @@ points allowed, as suggested by Oliver.
 3. A team's improvement or decline was determined if their actual winning percentage deviated from expected winning percentage by one or more standard deviation.
 
 A challenge met while executing this method was determining the standard deviation of expected winning percentage. It was concluded that a specified column for rolling 
-expected winning percentage during the season was required. Full execution of the method including engineering of the data was included in [model.ipynb](https://github.sydney.edu.au/aliu0994/bell_curve_model/blob/main/model.ipynb).
+expected winning percentage during the season was required. Full execution of the method including engineering of the data was included in [model.ipynb](https://github.com/alex1031/bell_curve_model/blob/main/model.ipynb).
 
 ## Result
 There were 23 teams over the previous 5 seasons that deviated from their expected percentage by one standard deviation or more. 16 (70%) of them improved/declined the next year in the direction of the curve projection, as can be seen in the images below. There was one special case in 2017-18 Indiance Pacers, where their actual win percentage remained the same despite expecting a decline.
-
-![](expected_down.png)
-![](expected_up.png)
 
 ## Discussion and Limitation
 The results obtained were similar to Oliver's, with difference of 2 (1 if the 2017-18 Pacers was counted as a correct prediction). 
