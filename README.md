@@ -44,6 +44,9 @@ expected winning percentage during the season was required. Full execution of th
 ## Result
 There were 23 teams over the previous 5 seasons that deviated from their expected percentage by one standard deviation or more. 16 (70%) of them improved/declined the next year in the direction of the curve projection, as can be seen in the images below. There was one special case in 2017-18 Indiance Pacers, where their actual win percentage remained the same despite expecting a decline.
 
+![](expected_up.png)
+![](expected_down.png)
+
 ## Discussion and Limitation
 The results obtained were similar to Oliver's, with difference of 2 (1 if the 2017-18 Pacers was counted as a correct prediction). 
 
